@@ -1,6 +1,4 @@
-Aquí tienes el contenido para `index.md` (README) de tu repositorio. Está pensado para `https://github.com/jocarsa/catalogofotografico` y describe el script de una sola pasada con estadísticas en consola y un único `index.html` embebido.
 
----
 
 # Catálogo Fotográfico — HTML único + Progreso en consola
 
